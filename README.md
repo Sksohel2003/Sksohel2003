@@ -1,19 +1,21 @@
 ### 💫 About Me:
 # 👋 Hi there!  I'm Sohel🐬
 
-I'm recently completed my Bachelor of Technology in Computer Science Engineering at Vellore Institute of Technology (VIT). I have a strong passion for Artificial Intelligence, Machine Learning, and Software Development, and I’m constantly working to expand my skills in these areas.<br><br> 
+I'm recently completed my Bachelor of Technology in Computer Science Engineering at Vellore Institute of Technology (VIT). I have a strong passion for Artificial Intelligence, Machine Learning, and Software Development, and I’m constantly working to expand my skills in these areas.
+
 ## 💻 What I’m working on:
 Building projects that incorporate AI/ML to solve real-world problems<br>Exploring software development techniques to create efficient, scalable applications<br>Experimenting with data mining and natural language processing (NLP) in context-rich domains like mythology<br>
 
 ## 🌱 What I’m learning:
-<br>Software Development: Following industry best practices, including version control, testing, and code optimization to deliver robust applications<br>
-AI/ML Algorithms: Enhancing my understanding of algorithms, data structures, and system design<br>
-Hands-on experience in technologies like Python, Java, JavaScript, TensorFlow, and React<br>
+Software Development: Following industry best practices, including version control, testing, and code optimization to deliver robust applications
+AI/ML Algorithms: Enhancing my understanding of algorithms, data structures, and system design
+Hands-on experience in technologies like Python, Java, JavaScript, TensorFlow, and React
 
 ## 🔧 Tools & Technologies:
-<br>Programming languages: Python, JavaScript, Java, C++<br>Frameworks & Libraries: TensorFlow, React, Flask, ChainLit, OpenCV<br>Tools: Git, Docker, Visual Studio Code, Intellij<br>
+Programming languages: Python, JavaScript, Java, C++<br>Frameworks & Libraries: TensorFlow, React, Flask, ChainLit, OpenCV<br>Tools: Git, Docker, Visual Studio Code, Intellij<br>
+
 ## 📫 Let’s Connect:
-<br>Feel free to connect or reach out if you're interested in collaborating on projects, discussing tech, or exploring new ideas in AI and software development!
+Feel free to connect or reach out if you're interested in collaborating on projects, discussing tech, or exploring new ideas in AI and software development!
 
 
 ## 🌐 Socials:
